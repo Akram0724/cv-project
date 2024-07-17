@@ -26,7 +26,7 @@ body {
 /* Left Side Styles */
 .leftSide {
     width: 35%;
-    background: rgba(7, 70, 187, 0.87);
+    background: rgba(1, 14, 38, 0.87);
     color: white;
     padding: 30px 20px;
     box-sizing: border-box;
@@ -107,4 +107,9 @@ body {
 
 .rightSide .education p {
     margin: 0;
+}
+
+
+.p{
+    font-family: "Roboto", sans-serif;
 }
