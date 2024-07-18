@@ -25,7 +25,7 @@ body {
 
 .leftSide {
     width: 35%;
-    background: rgba(1, 14, 38, 0.87);
+    background: rgba(1, 24, 65, 0.87);
     color: white;
     padding: 30px 20px;
     box-sizing: border-box;
@@ -109,4 +109,9 @@ body {
 
 .p{
     font-family: "Roboto", sans-serif;
+}
+
+.contact a{
+    text-decoration: none;
+    color:#f2f2f2
 }
